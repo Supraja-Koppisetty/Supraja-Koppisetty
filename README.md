@@ -33,7 +33,7 @@ I enjoy building projects that solve real-world problems and continuously strive
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/supraja-koppisetty/)
+- [LinkedIn](https://www.linkedin.com/in/kvsupraja/)
 - [Medium](https://medium.com/@suprajakv)
 
 Feel free to reach out if you're interested in collaborating on projects or discussing technology!
